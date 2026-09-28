@@ -1,0 +1,5 @@
+# Core Python Standard Library is used for zero-dependency execution
+# Optional packages for enhanced CLI visuals and cloud LLM integration:
+rich>=13.0.0
+openai>=1.0.0
+python-dotenv>=1.0.0

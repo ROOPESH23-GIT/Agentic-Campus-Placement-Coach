@@ -1,0 +1,26 @@
+ROOPESH B - 3rd Year B.Tech Computer Science and Engineering
+Email: roopesh.cse@example.com | GitHub: github.com/ROOPESH23-GIT
+
+SUMMARY:
+Passionate computer science undergraduate with strong foundations in Data Structures, Algorithms, Object-Oriented Programming, and Web Development. Experienced in building full-stack web applications and REST APIs.
+
+TECHNICAL SKILLS:
+- Languages: Python, JavaScript, C++, SQL
+- Frameworks & Libraries: React, Node.js, Express.js, Flask, Tailwind CSS
+- Databases: SQLite, PostgreSQL, MongoDB
+- Tools & Version Control: Git, GitHub, VS Code, Postman
+- Core Subjects: DBMS, Operating Systems, Computer Networks, Software Engineering
+
+PROJECTS:
+1. LendMate - Community Peer-to-Peer Rental Space Marketplace
+   - Built a full-stack platform enabling homeowners to list and rent spare storage and parking spots.
+   - Implemented secure JWT authentication and SQLite relational schema with foreign key constraints.
+   - Developed responsive UI using React, Tailwind CSS, and Lucide icons.
+
+2. Algorithmic Trading Strategy Backtester
+   - Created a modular Python backtesting framework for moving average crossover strategies.
+   - Evaluated Sharpe Ratio, Maximum Drawdown, and Cumulative PnL.
+
+EDUCATION:
+B.Tech in Computer Science and Engineering (2023 - 2027)
+CGPA: 8.7 / 10.0

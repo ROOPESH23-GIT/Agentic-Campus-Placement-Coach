@@ -1,0 +1,20 @@
+Job Title: Associate Software Development Engineer (SDE-1)
+Company: TechCorp Solutions (Campus Placement Drive)
+Location: Bangalore / Hyderabad / Hybrid
+
+ROLE OVERVIEW:
+We are looking for enthusiastic 3rd & 4th year CSE/IT graduates to join our backend and platform engineering teams. You will design, build, and optimize scalable web services, microservices, and databases.
+
+RESPONSIBILITIES:
+- Design high-performance RESTful APIs and backend services.
+- Optimize database queries and schema designs for high throughput.
+- Collaborate with product and DevOps teams on automated deployment pipelines.
+- Implement security best practices, caching layers, and asynchronous task queues.
+
+REQUIRED QUALIFICATIONS & SKILLS:
+- Proficiency in Python, Java, or C++.
+- Strong grasp of Data Structures, Algorithms, Time/Space Complexity.
+- Practical experience with Relational Databases (PostgreSQL / MySQL) and SQL query optimization.
+- Understanding of Caching systems (Redis / Memcached) and Distributed Systems basics.
+- Hands-on experience with Containerization (Docker) and Cloud basics (AWS / GCP / Azure).
+- Excellent debugging, analytical, and problem-solving skills.
